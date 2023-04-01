@@ -1,0 +1,25 @@
+{
+  "name": "@nacho-cs/quuid",
+  "version": "1.0.1",
+  "description": "A tiny library for generating secure ids",
+  "main": "quuid.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacho-cs/quuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "id",
+    "random"
+  ],
+  "author": "nacho-cs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacho-cs/quuid/"
+  },
+  "homepage": "https://github.com/nacho-cs/quuid#readme"
+}
